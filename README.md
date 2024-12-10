@@ -1,5 +1,6 @@
 # frontend
-
+npm install -g @vue/cli
+vue create frontend
 ## Project setup
 ```
 npm install
